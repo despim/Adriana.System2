@@ -15,17 +15,22 @@ How to launch?
 
 example: 
 
+\n
+
 cd /home/titlechanqwerty/Build/Adriana_System2_jar
 
 cd /home/titlechanqwerty/Build
 
-4. writing a command java -jar Adriana.System2.jar
-.
+\n
 
+4. writing a command java -jar Adriana.System2.jar
+
+\n
+\n
 
 Story:
 
 Someone wants to kill all the people and then Adrian had already attempted on her twice and people were dying faster than one could imagine and Ioann decided to figure out who was to blame
 
-.
+
 
