@@ -1,7 +1,7 @@
 # Adriana.System2
 Continuation of the second part: Adriana.System
 
-
+![Image alt](https://github.com/TitleChanQWERTY/Adriana.System2/blob/main/gameIcon.png)
 
 How to launch?
 
