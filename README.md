@@ -13,6 +13,8 @@ How to launch?
 
 3. writing a command  cd /path to Adriana_System2_jar folder
 
+
+
 example: 
 
 
@@ -22,11 +24,10 @@ cd /home/titlechanqwerty/Build/Adriana_System2_jar
 cd /home/titlechanqwerty/Build
 
 
-
 4. writing a command java -jar Adriana.System2.jar
 
 
-
+-----------------------------------------------------------
 
 Story:
 
